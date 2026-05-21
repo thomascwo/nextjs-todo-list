@@ -1,0 +1,17 @@
+{
+  "common": {
+    "todo-list": "ToDo List",
+    "by": "by",
+    "input-placeholder": "Enter your task here",
+    "add-task": "Add Task",
+    "no-tasks-yet": "No tasks yet — add your first task",
+    "confirm-delete": "Confirm delete?",
+    "delete-task-permanently": "Confirm to delete task?",
+    "this-will-permanently-delete-the-task": "This will permanently delete the task:",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit-task": "Edit Task",
+    "update": "Update",
+    "input-empty-placeholder": "Task cannot be empty"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "common": {
+    "todo-list": "ToDoリスト",
+    "by": "製：",
+    "input-placeholder": "タスクを入力してください",
+    "add-task": "追加",
+    "no-tasks-yet": "タスクがありません。追加して始めましょう！",
+    "confirm-delete": "削除を確認しますか？",
+    "delete-task-permanently": "タスクを削除しますか？",
+    "this-will-permanently-delete-the-task": "このタスクは完全に削除されます：",
+    "cancel": "キャンセル",
+    "delete": "削除",
+    "edit-task": "タスクを編集",
+    "update": "更新",
+    "input-empty-placeholder": "タスクは空白にできません"
+  }
+}
