@@ -35,7 +35,7 @@ export default function () {
       <main className="flex w-full max-w-3xl flex-1 flex-col">
         <div
           className={clsx(
-            "bg-red-600 flex flex-col items-stretch justify-between",
+            "flex flex-col items-stretch justify-between bg-red-600",
             "gap-2 px-8 py-4 md:gap-4 md:px-16 md:py-8",
           )}
         >
@@ -69,7 +69,7 @@ export default function () {
               onEnterSubmit={onClickAddTask}
             />
             <Button
-              className={"bg-red-600 rounded-xl h-12"}
+              className={"h-12 rounded-xl bg-red-600"}
               onClick={onClickAddTask}
               isDisabled={input.trim().length === 0}
             >

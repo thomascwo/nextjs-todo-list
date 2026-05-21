@@ -57,7 +57,7 @@ export default function TaskCard(props: Props) {
   return (
     <Card
       className={clsx(
-        "rounded-xl flex w-full flex-row items-center p-3",
+        "flex w-full flex-row items-center rounded-xl p-3",
         className,
       )}
       variant={task.completed ? "secondary" : "default"}

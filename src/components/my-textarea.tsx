@@ -24,9 +24,9 @@ export default function MyTextArea(props: Props) {
   return (
     <TextArea
       className={clsx(
-        "rounded-xl h-auto min-h-12 flex-1 py-4 text-base",
+        "h-auto min-h-12 flex-1 rounded-xl py-4 text-base",
         "field-sizing-content resize-none",
-        "focus:ring-red-600 ring-0 focus:ring-1",
+        "ring-0 focus:ring-1 focus:ring-red-600",
         className,
       )}
       rows={1}

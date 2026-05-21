@@ -38,7 +38,7 @@ export default function DeleteButton(props: {
               <Button
                 slot="close"
                 variant="danger"
-                className="bg-red-600 rounded-xl"
+                className="rounded-xl bg-red-600"
                 onClick={onDelete}
               >
                 {t("delete")}
