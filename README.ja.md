@@ -76,7 +76,7 @@ src/
 ├── app/                  # Next.js App Router
 │   ├── layout.tsx        # ルートレイアウト
 │   ├── page.tsx          # ホームページ
-│   ├── globals.css       # グローバルスタイル
+│   └── globals.css       # グローバルスタイル
 ├── components/           # UIコンポーネント
 ├── store/                # Zustandストア
 ├── types/                # 型定義

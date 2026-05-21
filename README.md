@@ -78,14 +78,14 @@ src/
 ├── app/                  # Next.js App Router
 │   ├── layout.tsx        # Root layout
 │   ├── page.tsx          # Home page
-│   ├── globals.css       # Global styles
+│   └── globals.css       # Global styles
 ├── components/           # UI components
 ├── store/                # Zustand store
-└── types/                # Type definitions
+├── types/                # Type definitions
 ├── i18n/                 # i18n setup
 │   └── locales/
-│   │   ├── en.json       # English translations
-│   │   └── jp.json       # Japanese translations
+│       ├── en.json       # English translations
+│       └── jp.json       # Japanese translations
 └── lib/                  # Utils and data
 ```
 
